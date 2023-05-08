@@ -1,0 +1,17 @@
+C:\Users\ulise\Escritorio\proy_ing_software\proyectos\Buscador\bin\Debug\net6.0-windows\Buscador.exe
+C:\Users\ulise\Escritorio\proy_ing_software\proyectos\Buscador\bin\Debug\net6.0-windows\Buscador.deps.json
+C:\Users\ulise\Escritorio\proy_ing_software\proyectos\Buscador\bin\Debug\net6.0-windows\Buscador.runtimeconfig.json
+C:\Users\ulise\Escritorio\proy_ing_software\proyectos\Buscador\bin\Debug\net6.0-windows\Buscador.dll
+C:\Users\ulise\Escritorio\proy_ing_software\proyectos\Buscador\bin\Debug\net6.0-windows\Buscador.pdb
+C:\Users\ulise\Escritorio\proy_ing_software\proyectos\Buscador\obj\Debug\net6.0-windows\Buscador.csproj.AssemblyReference.cache
+C:\Users\ulise\Escritorio\proy_ing_software\proyectos\Buscador\obj\Debug\net6.0-windows\Buscador.Form1.resources
+C:\Users\ulise\Escritorio\proy_ing_software\proyectos\Buscador\obj\Debug\net6.0-windows\Buscador.csproj.GenerateResource.cache
+C:\Users\ulise\Escritorio\proy_ing_software\proyectos\Buscador\obj\Debug\net6.0-windows\Buscador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ulise\Escritorio\proy_ing_software\proyectos\Buscador\obj\Debug\net6.0-windows\Buscador.AssemblyInfoInputs.cache
+C:\Users\ulise\Escritorio\proy_ing_software\proyectos\Buscador\obj\Debug\net6.0-windows\Buscador.AssemblyInfo.cs
+C:\Users\ulise\Escritorio\proy_ing_software\proyectos\Buscador\obj\Debug\net6.0-windows\Buscador.csproj.CoreCompileInputs.cache
+C:\Users\ulise\Escritorio\proy_ing_software\proyectos\Buscador\obj\Debug\net6.0-windows\Buscador.dll
+C:\Users\ulise\Escritorio\proy_ing_software\proyectos\Buscador\obj\Debug\net6.0-windows\refint\Buscador.dll
+C:\Users\ulise\Escritorio\proy_ing_software\proyectos\Buscador\obj\Debug\net6.0-windows\Buscador.pdb
+C:\Users\ulise\Escritorio\proy_ing_software\proyectos\Buscador\obj\Debug\net6.0-windows\Buscador.genruntimeconfig.cache
+C:\Users\ulise\Escritorio\proy_ing_software\proyectos\Buscador\obj\Debug\net6.0-windows\ref\Buscador.dll
